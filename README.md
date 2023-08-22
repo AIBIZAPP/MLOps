@@ -1,6 +1,6 @@
 ## Practical MLOps, an O'Reilly Book
 
-This is a public repo where code samples are stored for the book Practical MLOps.
+This is a public repo where code samples been modified when I studied the book Practical MLOps.
 
 ![mlops-color](https://user-images.githubusercontent.com/58792/121539559-c6787e80-c9d3-11eb-9f48-5d25924fad25.png)
 * [Read Practical MLOps Online](https://learning.oreilly.com/library/view/practical-mlops/9781098103002/)
